@@ -1,0 +1,26 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+env/
+venv/
+
+# Database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# Test coverage reports
+.coverage
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml

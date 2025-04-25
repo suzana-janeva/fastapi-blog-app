@@ -8,4 +8,8 @@
 2. Run FastAPI app using Uvicorn:
 `uvicorn main:app --reload`
 
+3. Swagger UI: http://127.0.0.1:8000/docs
+
+4. ReDoc: http://127.0.0.1:8000/redoc
+
 
